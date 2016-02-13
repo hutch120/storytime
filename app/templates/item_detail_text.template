@@ -1,0 +1,1 @@
+<div class="item-detail-text playsound" alt="<%= obj.word %>"><%= obj.word %></div>

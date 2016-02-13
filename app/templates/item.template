@@ -1,0 +1,19 @@
+<div id="<%= item.id %>" class="item <%= item.modulous %>">
+
+  <div id="item-line-1">
+    <div class="item-image">
+      <img class="playsound" src="/static/hearing-620x720.png" alt="<%= item.description %>"/>
+    </div>
+    <a href="#/items/item/<%= id %>">
+      <div class="item-image">
+        <img src="<%= item.image.src %>" alt="<%= item.alt %>" />
+      </div>
+    </a>
+  </div>
+
+  <div id="item-line-2">
+    <a href="#/items/item/<%= id %>">
+      <div class="item-description"><%= item.description %></div>
+    </a>
+  </div>
+</div>

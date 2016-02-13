@@ -1,0 +1,9 @@
+<div class="container printhide">
+  <div id="header-element-logo">
+    <a href="/"><img id="img-logo" alt="Brand" src="/static/logo64x64.png"></a>
+  </div>
+  
+  <div id="header-element-templates-link">
+    <a href="#/items" class="btn btn-default btn-lg" role="button"><img src="/static/worm-reading-400x299.png" /></a>
+  </div>
+</div>

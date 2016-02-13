@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="item-detail">
+    <div class="item-info">
+      <div class="item-image">
+        <img class="playsound" src="/static/hearing-620x720.png" alt="<%= item.description %>"/>
+      </div>
+
+      <div class="item-image">
+        <img class="playsound" src="<%= item.image.src %>" alt="<%= item.image.alt %>" />
+      </div>
+      
+      <div class="item-description playsound" alt=""
+        <%= item.description %>"><%= item.description %>
+      </div>
+
+      <div id="item-text"></div>
+
+      <div id="item-text-all"></div>
+
+    </div>
+  </div>
+</div>

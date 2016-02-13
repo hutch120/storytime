@@ -1,0 +1,83 @@
+<div class="container text-center">
+
+  <div id="homedataflowwrapper">
+    <img src="https://s3-ap-southeast-2.amazonaws.com/www-fielddata-info-static/img/logo-name.svg" id="homelogoname" />
+    <!-- <img src="https://s3-ap-southeast-2.amazonaws.com/www-fielddata-info-static/img/home.dataflow.svg" id="homedataflowimage" /> 
+
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/50DOMGQjaWI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    -->
+  </div>
+
+  <div id="openingstatement">
+    <p>Save <strong>photos</strong>, <strong>location</strong> and <strong>form data</strong> directly to Google Drive.</p>
+    <p>Format the data to meet specific needs such as reports, automatic alert systems, analytics and much more using the familar Google interface.</p>
+    <p>We take privacy and security very seriously, this application does not store or pass on Your data to anyone.</p>
+    <p>On first sign in this app will request the absolute minimum access required to Your Google Drive.</p>
+    <p>Sign in with Your Google account, carefully read the permission request statement, and start collecting field data now!</p>
+  </div>
+
+  <div id="opendetails" class="btn btn-info">More Details</div>
+
+  <div id="details">
+    <hr />
+    <h3>Ready to start?</h3>
+    <p>1. Select Sign In: A new folder will be created on Your Google Drive called FieldData.info</p>
+    <p>2. Complete a template: Press templates button, pick a template and submit it.</p>
+    <p>3. Find Your data: Open <a href="https://drive.google.com/drive/my-drive" target="_blank">Your Google Drive</a> and check out the folder FieldData.info to find your new data.</p>
+    <p>4. Build a report: Go to our <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">forum</a> to find out how to build time saving applications using FieldData.info!</p>
+    <p>5. Build a custom template: Ask us how on the <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">forum</a>.</p>
+
+    <hr />
+    <h3>Features</h3>
+    <p>You own and control all of Your data on Your Google account.</p>
+    <p>Data is collected and stored in realtime so your organisation can respond to change rapidly.</p>
+    <p>You can build your own reports, event engines, and complex data analysis using the familar Google interface.</p>
+    <p>Need some guidance on Google Spreadsheets? Check out this <a href="https://www.google.com.au/sheets/about/" target="_blank">reference</a>.</p>
+
+    <hr />
+    <h3>Pricing</h3>
+    <p>Unlimited usage of templates.</p>
+    <p>Custom template licences are AUD$50 per template per user per year.</p>
+    <p>Ask about discounts for bulk orders.</p>
+    <p>We can build custom templates from AUD$1000 (or you can build your own, <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">ask us how</a>)</p>
+    <p>Email and phone support can be purchased.</p>
+
+    <hr />
+    <h3>Security</h3>
+    <p>We take security very seriously.</p>
+    <p>This application only stores Your information on Your Google drive.</p>
+    <p>Access will only be requested to resources created by this application and some basic profile data.</p>
+    <p>In other words, this app will not attempt to access any private content on Your Google account.</p>
+    <p>Unfortunately at this time we need to request access to all Spreadsheets because the Google scope system does not have an option for only spreadsheets created by an application.</p>
+    <p>This site requests the following <a href="https://developers.google.com/identity/protocols/googlescopes" target="_blank">Google Scopes</a> userinfo.profile; drive.file; drive.appfolder and spreadsheets</p>
+    <p><a href="https://security.google.com/settings/security/permissions?pli=1" target="_blank">Revoke Access</a> at any time.</p>
+
+    <hr />
+    <h3>Us</h3>
+    <p>A group of software engineers who love building great web applications that people love.</p>
+    <p>Based in Melbourne, Australia</p>
+    <p>Please join the community <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">Google Groups</a></p>
+
+    <hr />
+    <h3>FAQ</h3>
+    <p>Q. Does FieldData.info charge to submit a template?</p>
+    <p>A. No. FieldData.info does not impose any limits or charges when You submit a template.</p>
+    <hr/>
+    <p>Q. Does FieldData.info handle complex form data such as nested form elements?</p>
+    <p>A. Yes. We use dot notation to store it.</p>
+    <hr />
+    <p>Q. Is there a limit on file size?</p>
+    <p>A. No limit is imposed, however be aware large photos can take some time to transfer over slow links and there may be a data cost associated with your mobile carrier. There are a number of techniques to avoid this issue such as setting Your phone photo settings to a lower resolution.</p>
+    <hr />
+    <p>Q. Can I build my own custom templates?</p>
+    <p>A. Yes. Ask us how on the <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">forum</a>.</p>
+    <hr />
+    <p>Q. Can I hide my custom templates from other FieldData.info users?</p>
+    <p>A. Yes. Ask us how on the <a href="https://groups.google.com/forum/#!forum/fielddatainfo" target="_blank">forum</a>.</p>
+    <hr />
+    <p>Q. Can I save data to another FieldData.info users Google Drive?</p>
+    <p>A. You could. But it is easy to merge data from multiple Google sheets by using the Google Sheets ImportRange function, so we recommend you do that instead.</p>
+    <hr />
+
+  </div>
+</div>

@@ -1,0 +1,255 @@
+/* Copyright 2016 Simon Hutchison */
+
+#img-logo {
+  width: 40px;
+}
+
+/* unvisited link */
+a:link {
+  color: #4FBF68;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #4FBF68;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #4FBF68;
+  text-decoration: none;
+}
+
+
+.pg-loading-logo {
+  width: 60%;
+}
+
+
+p {
+  font-size: large;
+}
+
+body > .inner {
+  display: none;
+}
+
+body.pg-loaded > .inner {
+  display: block;
+}
+
+body {
+  background: #FFF;
+  color: #333;
+  margin: 0px;
+  padding: 0px;
+}
+
+#main {
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+
+#google-login-button-wrapper {
+  margin: 8px; /* Center vertically in the header. */
+}
+
+#signed-in {
+  display: none;
+}
+
+#signed-in-img {
+  width: 34px;
+}
+
+#signout {
+  margin-right: 6px;
+}
+
+.hidden {
+  display: none;
+}
+
+#header {
+}
+
+#header {
+  background: #F8F8F8;
+  color: lightgray;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+#footer {
+  background: #F8F8F8;
+  color: lightgray;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  padding: 4px;
+}
+
+#header-element-logo {
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#header-element-signin {
+  float: right;
+}
+
+#header-element-templates-link {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+  #header-element-templates-link img {
+    height: 26px;
+    width: 70px;
+  }
+
+.odd {
+}
+
+.even {
+}
+
+#header h1 {
+}
+
+#header .cart-info {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  text-align: right;
+  padding: 10px;
+  background: #714625;
+  color: #FFF;
+  font-size: 12px;
+  font-weight: bold;
+  height: 40px;
+  width: 100px;
+}
+
+img {
+  border: 0;
+}
+
+.item-detail {
+}
+
+.playsound {
+  cursor: pointer;
+}
+
+.item {
+  text-align: center;
+  font-size: 12px;
+  border: 1px solid lightgrey;
+  margin: 2px;
+  background: #F5F5F5;
+  cursor: pointer;
+}
+
+.item-text {
+  font-size: xx-large;
+}
+
+.item-detail-text {
+  font-size: xx-large;
+  margin: 10px;
+  float: left;
+}
+
+.item-title {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.item-description {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.item-artist {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.item-image {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline;
+}
+
+#item-line-1 {
+  margin-top: 10px;
+}
+
+#item-line-2 {
+  margin-bottom: 10px;
+}
+
+.item-image img {
+  height: 70px;
+}
+
+.imagepreview img {
+  height: 70px;
+}
+
+.form-element {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form-element-title {
+  font-weight: bold;
+  font-size: large;
+}
+
+.header-element {
+  float: left;
+}
+
+#items {
+  margin-top: 10px;
+}
+
+#homedataflowwrapper {
+}
+
+#homelogoname {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+#homedataflowimage {
+  width: 80%;
+}
+
+#details {
+  text-align: left;
+  display: none;
+  margin-bottom: 40px;
+}
+
+#openingstatement {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#opendetails {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
